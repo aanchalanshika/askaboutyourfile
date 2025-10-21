@@ -4,7 +4,7 @@ A modern, responsive file upload application built with React that allows users 
 
 
 
-> 📸 **Add your screenshot here**: Replace with actual screenshot of your upload interface
+
 
 ## 📸 Screenshots
 
